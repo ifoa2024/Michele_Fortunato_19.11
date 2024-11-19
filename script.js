@@ -94,5 +94,5 @@ btnDelete.addEventListener('click', ()=>{
 
 
 editName.addEventListener("click", ()=>{
-    
+
 })
